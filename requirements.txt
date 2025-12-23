@@ -1,0 +1,6 @@
+requests
+tqdm
+requests-toolbelt
+rich
+pick
+rich
